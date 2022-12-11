@@ -1,4 +1,4 @@
-## 📍 Projeto Lanchone FIGURAS PLANAS
+## 📍 Projeto FIGURAS PLANAS
 
 ✔ Sobre
 
